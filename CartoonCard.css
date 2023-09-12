@@ -1,0 +1,28 @@
+.character-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+   
+    margin: 16px;
+    width: 35%;
+  }
+  
+  
+  
+  .character-image {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .character-name {
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  .character-info {
+    font-size: 1rem;
+    margin: 8px 0;
+  }
+  
